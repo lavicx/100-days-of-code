@@ -4,7 +4,7 @@
 
 **Today's Progress**: Went through 8 exercises on FreeCodeCamp. 
 
-**Thoughts:** 
+**Thoughts:** Struggled a bit to understand what was needed to apply CSS class. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
