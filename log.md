@@ -2,11 +2,11 @@
 
 ### Day 1: December 29, 2017 
 
-**Today's Progress**: Went through 8 exercises on FreeCodeCamp. 
+**Today's Progress**: Went through 11 exercises on FreeCodeCamp. 
 
 **Thoughts:** Struggled a bit to understand what was needed to apply CSS class. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 2: December 30, 2017 
 
