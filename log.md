@@ -10,11 +10,11 @@
 
 ### Day 2: December 30, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on Python in codeacademy and ended at Python syntax.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I enjoyed getting the concepts but I don't really understand when and why I would apply them. Perhaps this is why it is suggested that we work on projects as we learn. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: December 29, 2017 
