@@ -10,9 +10,9 @@
 
 ### Day 2: December 30, 2017 
 
-**Today's Progress**: Worked on Python in codeacademy and ended at Python syntax.
+**Today's Progress**: Worked on Python in codeacademy and ended at Unit 2.
 
-**Thoughts**: I enjoyed getting the concepts but I don't really understand when and why I would apply them. Perhaps this is why it is suggested that we work on projects as we learn. 
+**Thoughts**: I enjoyed getting the concepts but I don't really understand when and why I would apply them. Perhaps this is why it is suggested that we work on projects as we learn.  Definitely need to put together a schedule to know what I'm heading towards.  
 
 **Link(s) to work**: 
 
