@@ -17,9 +17,9 @@
 **Link(s) to work**: 
 
 
-### Day 1: December 29, 2017 
+### Day 3: December 31, 2017 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
 **Thoughts** 
 
