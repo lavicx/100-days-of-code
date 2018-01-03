@@ -19,10 +19,34 @@
 
 ### Day 3: December 31, 2017 
 
+**Today's Progress**: Went to FreeCodeCamp meetup in Dallas. Downloaded Visual Studio Code and put together a practice page using hmtl and css. 
+
+**Thoughts** Was super nervous but learned that I don't have to remember everything. Looking things up is my friend and practice is where confidence is born. 
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 4: January 1, 2018 
+
+**Today's Progress**: Spend some time on sizing images through freecodecamp. 
+
+**Thoughts** It was a challenge. It doesn't seem to go in an order that makes sense to me. 
+
+**Link(s) to work**
+
+### Day 5: January 2, 2018 
+
+**Today's Progress**: Tried to figure out how to find the index file on the firstProject VScode text editor. Watched videos and everything to no avail. 
+
+**Thoughts** Found it on my desktop in a folder named "Projects". I might order a udemy course for some extra guidance. 
+
+**Link(s) to work**
+
+### Day 6: January 3, 2018 
+
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
