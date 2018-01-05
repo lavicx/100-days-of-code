@@ -45,8 +45,16 @@
 
 ### Day 6: January 3, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Got through the border section of freecodecamp. Also, signed up for the a code challenge. And worked on the first lesson in codeacademy on html including the project. 
 
-**Thoughts** 
+**Thoughts**  
+
+**Link(s) to work**
+
+### Day 7: January 4, 2018 
+
+**Today's Progress**: Completed the Code Academy elements module.
+
+**Thoughts** This module helped me understand some of the things I was asked to do early on in the freecodecamp sequences. It's all coming together (i hope). I'll do a project this weekend to test what I've learned so far. 
 
 **Link(s) to work**
